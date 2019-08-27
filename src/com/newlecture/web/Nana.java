@@ -22,5 +22,5 @@ public class Nana extends HttpServlet {
 			out.println((i+1)+": 안녕 Hello ~~ adsf<br/>");
 		}
 	}
-
+//git 연습 메시지 변경
 }
