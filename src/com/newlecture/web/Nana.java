@@ -19,8 +19,8 @@ public class Nana extends HttpServlet {
 		
 		PrintWriter out = resp.getWriter();
 		for(int i=0;i<100;i++) {
-			out.println((i+1)+": ¹¹Áö? Hello ~~ adsf<br/>");
+			out.println((i+1)+": ë­ì§€? Hello ~~ adsf<br/>");
 		}
 	}
-//git ÁÖ¼®º¯°æ
+//git ì£¼ì„ë³€ê²½3
 }
