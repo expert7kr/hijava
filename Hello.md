@@ -6,3 +6,4 @@ add
 commit
 push
 
+코드뭉치 버리기 > 변경사항 취소
